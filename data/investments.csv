@@ -1,0 +1,4 @@
+asset,buy_price,quantity,buy_date,currency
+Gold,220000,1,2023-07-01,PKR
+USD,280,1000,2024-03-01,PKR
+EUR,305,500,2024-04-10,PKR
