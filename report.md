@@ -1,7 +1,7 @@
-## 📊 Daily Investment Report - December 30, 2025
+## 📊 Daily Investment Report - December 31, 2025
 
 | Asset | Quantity | Buy Price | Current Price | Gain/Loss | % Change |
 |-------|----------|-----------|----------------|------------|----------|
-| Gold | 1 | 220000 PKR | 39315.53 PKR | -180684.47 PKR | -82.13% |
-| USD | 1000 | 280 PKR | 280.38 PKR | 381.0 PKR | 0.14% |
-| EUR | 500 | 305 PKR | 330.02 PKR | 12512.45 PKR | 8.2% |
+| Gold | 1 | 220000 PKR | 39210.43 PKR | -180789.57 PKR | -82.18% |
+| USD | 1000 | 280 PKR | 280.48 PKR | 480.0 PKR | 0.17% |
+| EUR | 500 | 305 PKR | 329.63 PKR | 12315.3 PKR | 8.08% |
