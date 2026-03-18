@@ -1,7 +1,7 @@
-## 📊 Daily Investment Report - March 17, 2026
+## 📊 Daily Investment Report - March 18, 2026
 
 | Asset | Quantity | Buy Price | Current Price | Gain/Loss | % Change |
 |-------|----------|-----------|----------------|------------|----------|
-| Gold | 1 | 220000 PKR | 45253.21 PKR | -174746.79 PKR | -79.43% |
-| USD | 1000 | 280 PKR | 279.43 PKR | -574.5 PKR | -0.21% |
-| EUR | 500 | 305 PKR | 320.93 PKR | 7965.4 PKR | 5.22% |
+| Gold | 1 | 220000 PKR | 44734.65 PKR | -175265.35 PKR | -79.67% |
+| USD | 1000 | 280 PKR | 279.05 PKR | -948.0 PKR | -0.34% |
+| EUR | 500 | 305 PKR | 321.75 PKR | 8376.45 PKR | 5.49% |
